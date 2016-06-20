@@ -8,7 +8,7 @@
   * start:  ['g', 'b', '.', '.', 'g']
   * finish: ['g', '.', 'b', '.', 'g']
   
-2. delete_before - [solution](/challenges/solutions/delete_before.js)
+2. delete_before_last_blue - [solution](/challenges/solutions/delete_before.js)
 
   * start:  [ 'g', 'b', '.', '.', '.' ]
   * finish: [ '.', 'b', '.', '.', '.' ]
