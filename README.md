@@ -96,3 +96,7 @@ More information about turing machines:
 Possible slides:
 [Kyrel.pdf](Kyrel.pdf)
 or: [google docs](https://docs.google.com/presentation/d/1j47BMDfows4O5rw4UYaYabHhosmZHQ8iKs8A5b-T3Pw/edit?usp=sharing)
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
